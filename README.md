@@ -10,7 +10,7 @@
 - CS Related university grad or 3rd course or above.
 
 
-## What you will learn during internship
+## General JavaScript Knowledge
 - Git / github - or Bitbucket ([learn](https://try.github.io/levels/1/challenges/1))
 - Basic understanding of
   - NodeJs npm (npm install, uninstall, --save …)
@@ -24,7 +24,7 @@
   - Have written an array sorting function (bubble sort, quick sort.. Or any) ([learn](http://www.8bitavenue.com/2015/09/sorting-algorithms-explained-by-examples/)) ([learn](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html)) ([learn](http://macr.ae/article/sorting-algorithms.html))
 - General Help - ([learn](https://nodeschool.io/#workshoppers))
 
-## For Front-End (ReactJS) Internship participant, should also be familiar with.
+## For Front-End (ReactJS) development.
 - Do any small project on ReactJS, understand the component lifecycle.
 - ([state](https://facebook.github.io/react/docs/state-and-lifecycle.html)), ([component](https://facebook.github.io/react/docs/react-component.html))
 - Get familiar with redux ([learn](https://egghead.io/courses/getting-started-with-redux))
