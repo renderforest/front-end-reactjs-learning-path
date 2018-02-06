@@ -35,3 +35,4 @@ updated: Feb 06, 2018
 ## Additional Topics To Study
 - Mastering JavaScript Callbacks ([tasks](https://github.com/emarukyan/mastering-callbacks-javascript/))
 - Recursion ([learn](https://github.com/AlbertHambardzumyan/recursion))
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
