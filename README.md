@@ -1,5 +1,6 @@
 
 # Front End (ReactJS) Developer Learning Path
+updated: Feb 06, 2018
 
 ## General Requirements
 
