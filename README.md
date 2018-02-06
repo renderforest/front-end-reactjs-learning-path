@@ -14,7 +14,7 @@
 - Git / github - or Bitbucket ([learn](https://try.github.io/levels/1/challenges/1))
 - Basic understanding of
   - NodeJs npm (npm install, uninstall, --save …)
-  - Webpack ([learn](https://webpack.js.org/guides/getting-started/) [learn](https://auth0.com/blog/webpack-a-gentle-introduction/))
+  - Webpack ([learn](https://webpack.js.org/guides/getting-started/)) ([learn](https://auth0.com/blog/webpack-a-gentle-introduction/))
   - Asynchronous functions ([learn](https://medium.com/@siddharthac6/javascript-execution-of-synchronous-and-asynchronous-codes-40f3a199e687))
   - Promises ([learn](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261))  ([learn](https://learn.javascript.ru/promise))
 - Be familiar with
